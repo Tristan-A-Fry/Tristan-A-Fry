@@ -6,7 +6,7 @@
 - 🤖 Interested in **Full Stack, AI, and ML development**.
 
 ## Social Links
-📫 Reach me at: fry.tristan2@gmail.com(mailto:your-email@example.com)  
+📫 Reach me at: (mailto:your-fry.tristan2@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/YOUR_PROFILE) | [Portfolio](https://yourportfolio.com)
 .
 -->
