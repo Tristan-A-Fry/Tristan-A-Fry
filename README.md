@@ -3,7 +3,7 @@
 ## About Me
 - 🎓 Recent University of Houston Graduate
 - 💻 Previously a **Software Engineering Intern** at Talos Energy 
-- 🤖 Interested in **Full Stack, AI, and ML development**.
+- 🤖 Interested in **Full Stack development**
 
 ## Social Links
 - 📫 Reach me at: fry.tristan2@gmail.com
