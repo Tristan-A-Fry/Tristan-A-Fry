@@ -9,4 +9,4 @@
 - 📫 Reach me at: fry.tristan2@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/tristan-a-fry/)| [Portfolio](https://tristanfry.com/)
 
-<img src="https://www.deviantart.com/sunpixels/art/F1-631746000" width="300px">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5aae0f7f-c0e8-4d26-abac-9595341fca62/dag4ic0-95e14089-fc37-4588-9a78-53cedec38fcf.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVhYWUwZjdmLWMwZTgtNGQyNi1hYmFjLTk1OTUzNDFmY2E2MlwvZGFnNGljMC05NWUxNDA4OS1mYzM3LTQ1ODgtOWE3OC01M2NlZGVjMzhmY2YuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FcW-Hk-UR6eqIiDKwulZHiS2wDS-iPCJulfDdPBqrHE" width="300px">
